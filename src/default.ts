@@ -10,7 +10,7 @@ export const defaultMessage = `
 
 - 特感谢 [OpenAI API (gpt-3.5-turbo)](https://platform.openai.com/docs/guides/chat) 和 [Vercel](http://vercel.com/) 提供支持。
 
-- 本站由 [不忘初心](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzIxNDU2NTQ0NA==&scene=124#wechat_redirect) 搭建。
+- 本站由 [不忘初心](https://www.zhihu.com/people/ak-buwangchuxin) 搭建。
 
 - 搜索微信"g01014011"或者扫描上方二维码添加我的个人微信，获取到最新的AppKey。
 
